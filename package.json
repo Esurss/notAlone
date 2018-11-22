@@ -20,7 +20,10 @@
     "redux": "^4.0.1",
     "babel-polyfill": "^6.26.0",
     "babel-preset-stage-0": "^6.24.1",
-    "redux-saga": "^0.16.2"
+    "redux-saga": "^0.16.2",
+    "css-loader": "^0.28.11",
+    "style-loader": "^0.21.0",
+    "postcss-loader": "^2.1.5"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.5",
